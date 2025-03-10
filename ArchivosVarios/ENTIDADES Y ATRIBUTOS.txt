@@ -1,0 +1,18 @@
+EVENTO:  tipo, precio,  descripcion
+RESTAURANTE: horario, comidas, bebidas, caracteristicasEsp
+HOTEL:  caracteristicas, serviciosHotel, Habitaciones
+LUGAR TURÍSTICO: CaracteristicasEsp
+SERVICIO: coordenadas, nombre
+----------- 
+SEMANA: dia  
+SPONSOR: nombre, aporte 
+CIRCUITOS TURISTICOS: nombreCircuito, localidad, movilidad 
+PERSONA: nombre, apellido, DNI, estadoCivil, telefono, nacionalidad, sexo, domicilio, idPersona
+EMPLEADO: legajo, rol 
+CLIENTE: usuario, contraseña 
+MULTIMEDIA: imagen, video, IdMultimedia
+HABITACION: tipo, capacidad
+ACTIVIDAD: tipo, precio, IdActividad
+
+RELACION:
+COMPRA: fecha, formaPago, monto 
